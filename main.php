@@ -19,7 +19,7 @@
     <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="new1.php"><b>Movie ตอนพิเศษ</b></a></div>
 	    <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="work2.html"><b>ติดต่อเรา</b></a></div>
 		
-  </div>
+  </div> 
 </div> 
 <!-- #Header Starts -->
 
@@ -56,6 +56,9 @@
         <!-- Item 1 --> 
         <div class="item">
            <a href="connoc.php"><img src="back4.jpg" height=500 width=770 alt="banner" class="picz"></a>
+        </div>
+		<div class="item">
+           <a href="connoc.php"><img src="Melody.jpg" height=500 width=770 alt="banner" class="picz"></a>
         </div>
 		
 		 <!-- Item 1 -->
