@@ -65,7 +65,7 @@
         <div class="item">
            <a href="conste.php"><img src="back5.jpg" height=500 width=770 alt="banner" class="picz"></a>
         </div>
-        <!-- #Item 1 -->
+        <!-- #Item 1 --> 
       </div>
       <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon-chevron-left"><i class="fa fa-angle-left" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;"></i></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon-chevron-right"><i class="fa fa-angle-right" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;""></i></span></a>
