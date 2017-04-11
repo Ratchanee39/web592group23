@@ -11,8 +11,8 @@
 <body>
 
 <div class="container-fluid">
-  <center><h1 style="color:#000033">MBPJ การ์ตูนออนไลน์</h1>
-  <p style="color:#000033">มีการ์ตูนให้เลือกชมมากมายทั้ง การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</p></center>
+  <center><h1 style="color:#99CCCC">MBPJ การ์ตูนออนไลน์</h1>
+  <p style="color:#99CCCC">มีการ์ตูนให้เลือกชมมากมายทั้ง การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</p></center>
   <div class="row">
     <div class="col-sm-3" style="background-color:lavender;"><a  style="color:blue"href="main.php"><b>หน้าหลัก</b></a></div>
     <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="new1.php"><b>การ์ตูนทั้งหมดในเว็บ</b></a></div>
