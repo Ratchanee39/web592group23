@@ -59,7 +59,7 @@
         </div>
 		<div class="item">
            <a href="connoc.php"><img src="Melody.jpg" height=500 width=770 alt="banner" class="picz"></a>
-        </div>
+        </div> 
 		
 		 <!-- Item 1 -->
         <div class="item">
