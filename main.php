@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head>
 <body>
 
@@ -16,13 +17,13 @@
   <div class="row">
     <div class="col-sm-3" style="background-color:lavender;"><a  style="color:blue"href="main.php"><b>หน้าหลัก</b></a></div>
     <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="work8.php"><b>การ์ตูนทั้งหมดในเว็บ</b></a></div>
-    <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="work8.php"><b>Movie ตอนพิเศษ</b></a></div>
+    <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="work8.php"><b>การ์ตูนตอนพิเศษ</b></a></div>
 	    <div class="col-sm-3" style="background-color:lavender;"><a style="color:blue"href="work8.php"><b>ติดต่อเรา</b></a></div>
 		
   </div>
 </div> 
 <!-- #Header Starts -->
-
+สาาาาาาาาาาาาาาาา
 <div id="home" align="center">
 <!-- Slider Starts -->
 <div id="myCarousel" class="carousel slide" data-ride="carousel"> 
@@ -41,7 +42,7 @@
         </div>
         <!-- #Item 1 --> 
  
-        <!-- Item 1 -->
+        <!-- Item 1 --> 
         <div class="item">
           <a href="conbuil.php"><img src="back2.jpg" height=500 width=770 alt="banner" class="picz"></a>
         </div> 
@@ -64,7 +65,7 @@
         </div>
         <!-- #Item 1 -->
       </div>
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon-chevron-left"><i class="fa fa-angle-left" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;"></i></span></a>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon-chevron-left"><i class="fa fa-angle-left" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px; width:500px;"></i></span></a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon-chevron-right"><i class="fa fa-angle-right" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;""></i></span></a>
     </div>
 <!-- #Slider Ends -->
