@@ -37,9 +37,9 @@
         <!-- Item 1 -->
         <div class="item active"> 
           <a href="index.php"><img src="back1.jpg" height=500 width=770 alt="banner" class="picz"></a>
-		
+		 
         </div>
-        <!-- #Item 1 -->
+        <!-- #Item 1 --> 
  
         <!-- Item 1 -->
         <div class="item">
