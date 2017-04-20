@@ -60,11 +60,17 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
                     <li>
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนทั้งหมดในเว็บ</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
+					<li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนแฟนตาซี</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=type">หมวดหมู่</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนต่อสู้</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=type">การ์ตูนคอมเมดี้</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
                     </li>
 					 <li>
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
