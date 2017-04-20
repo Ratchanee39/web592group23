@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>BPJ การ์ตูนออนไลน์</title>
+    <title>MBPJ การ์ตูนออนไลน์</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -57,10 +57,13 @@
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนทั้งหมดในเว็บ</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="work8.php">Movie ตอนพิเศษ</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=type">หมวดหมู่</a>
                     </li>
 					 <li>
-                        <a class="page-scroll" href="work8.php"> game Cartoon</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="work8.php">ติดต่อเรา</a>
