@@ -40,9 +40,9 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body role="document">
+<h4> <a style="color:Red"href="/">กลับสู่หน้าหลัก</a> </h4>
 <header class="page-header text-center">
-<h1>งานที่ 8 PHP Simple File CMS with Google User
+<h1 style="color:#FF8C00"><marquee behavior="alternate">MBPJ Cartoon online</marquee>
 </h1>
 
 </header>
@@ -58,22 +58,22 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 
 <style>
    .nav-pills li.active a{
-     background: #FFD700;
+     background:#CD5C5C;
    }
    .panel{
-   background: url(11.pg);
+   background: #BEBEBE;
 box-shadow: 5px 20px 60px #aea;
    }
    .panel-primary .panel-heading{
-     background:#FF73B9;
+     background:#87CEFA;
 box-shadow: 5px 20px 60px #aea;
    }
 .panel-default .panel-heading{
-     background:#FF73B9;
+     background:#87CEFA;
 box-shadow: 5px 20px 60px #aea;
    }
 body{
- background: url(11.png)
+ background: url(llll.jpg)
 }
 
 
