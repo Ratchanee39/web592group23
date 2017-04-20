@@ -50,17 +50,23 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
+                     <li>
                         <a class="page-scroll" href="index.php">หน้าหลัก</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนทั้งหมดในเว็บ</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
+					<li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoonfan">การ์ตูนแฟนตาซี</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=type">หมวดหมู่</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoonfing">การ์ตูนต่อสู้</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartooncommady">การ์ตูนคอมเมดี้</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
                     </li>
 					 <li>
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
@@ -207,14 +213,14 @@
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>043-632596</p>
+                    <h5 style="color:#FF6633"><p>043-632596</p></h5>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
                     <p><a href="mailto:your-email@your-domain.com">MBPJ_2017@gmail.com</a></p>
                 </div><br><br>
 				<div class="col-lg-8 col-lg-offset-2 text-center">
-				<p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว
+				<h5 style="color:#990000"><p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</h5>
 				 </div>
             </div>
         </div>

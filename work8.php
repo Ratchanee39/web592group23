@@ -1,5 +1,4 @@
-
-
+<style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/anime/ani-9/ani879.ani), url(http://cur.cursors-4u.net/anime/ani-9/ani879.png), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2009/04/13/super-kawaii-cute-cat-kaoani.html" target="_blank" title="Super Kawaii Cute Cat Kaoani"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Super Kawaii Cute Cat Kaoani" style="position:absolute; top: 0px; right: 0px;" /></a>
 <!doctype html>
 <?php
 error_reporting(0);
@@ -35,7 +34,23 @@ function userpic($uid){
 <html lang="en">
 <head>
  <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
  <title><?= $page ?> </title>
+ <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+
+
+    <!-- Custom Fonts -->
+    
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
  <link rel="stylesheet"
 href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
@@ -61,13 +76,13 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนทั้งหมดในเว็บ</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนแฟนตาซี</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoonfan">การ์ตูนแฟนตาซี</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoon">การ์ตูนต่อสู้</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartoonfing">การ์ตูนต่อสู้</a>
                     </li>
 					<li>
-                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=type">การ์ตูนคอมเมดี้</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=gartooncommady">การ์ตูนคอมเมดี้</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=movie">Movie ตอนพิเศษ</a>
@@ -76,7 +91,7 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="work8.php">ติดต่อเรา</a>
+                        <a class="page-scroll" href="work8.php">ติดต่อเรา</a></h5>
                     </li>
                 </ul>
             </div>
@@ -97,7 +112,7 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 
 <style>
    .nav-pills li.active a{
-     background:#CD5C5C;
+     background:#FFFFCC;
    }
    .panel{
    background: #BEBEBE;
@@ -126,14 +141,14 @@ body{
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>043-632596</p>
+                   <h5 style="color:#FF6633"><p>043-632596</p></h5>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
                     <p><a href="mailto:your-email@your-domain.com">MBPJ_2017@gmail.com</a></p>
                 </div><br><br>
 				<div class="col-lg-8 col-lg-offset-2 text-center">
-				<p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว
+				<h5 style="color:#FF6633"><p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</h5>
 				 </div>
             </div>
         </div>
