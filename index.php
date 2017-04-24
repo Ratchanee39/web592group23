@@ -72,7 +72,7 @@
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="work8.php">ติดต่อเรา</a>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=about">ติดต่อเรา</a>
                     </li>
                 </ul>
             </div>
@@ -162,7 +162,7 @@
                                     My Melody
                                 </div>
                                 <div class="project-name">
-                                                                                            กระต่ายน้อย My Melody
+                                                                                           มายเมโลดี้ หนูน้อยแห่งป่าเมอร์รี่แลนด์
                                 </div>
                             </div>
                         </div>

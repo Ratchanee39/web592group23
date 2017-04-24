@@ -38,6 +38,9 @@ function userpic($uid){
  <title><?= $page ?> </title>
  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+ <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -47,7 +50,7 @@ function userpic($uid){
     <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-
+    <link href="css/creative.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     
@@ -58,7 +61,9 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
-<header class="page-header text-center">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
  <div class="navbar-header">
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
@@ -91,7 +96,7 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
                         <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=game"> game Cartoon</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="work8.php">ติดต่อเรา</a></h5>
+                        <a class="page-scroll" href="https://web592group23.appspot.com/work8.php?p=about">ติดต่อเรา</a></h5>
                     </li>
                 </ul>
             </div>
@@ -99,12 +104,74 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
         </div>
         <!-- /.container-fluid -->
     </nav>
-</header>
+
+	<center><h1 style="color:#FF6600"><br>Welcome <br>to the MBPJ Cartoon online </h1>
+                <hr>
+                <p style="color:#FF6600">มีการ์ตูนให้เลือกชมมากมายทั้ง การ์ตูน ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</p>
+				<br>
+<div class="row">
+<div id="home" align="center">
+<!-- Slider Starts -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel"> 
+    <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+   <li data-target="#myCarousel" data-slide-to="4"></li>
+   <li data-target="#myCarousel" data-slide-to="5"></li>
+  </ol>
+      <div class="carousel-inner">
+        <!-- Item 1 -->
+        <div class="item active"> 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ACjY37mquNI" frameborder="0" allowfullscreen> alt="banner" class="picz"</iframe></a>=
+        </div>
+
+
+        <!-- #Item 1 -->
+ 
+        <!-- Item 1 -->
+        <div class="item">
+          <a href="conbuil.php"> <iframe width="560" height="315" src="https://www.youtube.com/embed/gpId-8EQn28" frameborder="0" allowfullscreen> alt="banner" class="picz"</iframe></a>
+        </div> 
+        <!-- #Item 1 -->
+
+        <!-- Item 1 -->
+        <div class="item">
+           <a href="confac.php"><iframe width="560" height="315" src="https://www.youtube.com/embed/lXavedXHHPk" frameborder="0" allowfullscreen>alt="banner" class="picz"</iframe> </a>
+        </div>
+        <!-- #Item 1 -->
+
+        <!-- Item 1 --> 
+        <div class="item">
+           <a href="connoc.php"><iframe width="560" height="315" src="https://www.youtube.com/embed/sIZ5xw84mWQ" frameborder="0" allowfullscreen> alt="banner" class="picz"</iframe></a>
+        </div>
+		
+		 <!-- Item 1 -->
+        <div class="item">
+           <a href="conste.php"><iframe width="560" height="315" src="https://www.youtube.com/embed/9upSmXCyUCo" frameborder="0" allowfullscreen> alt="banner" class="picz"</iframe></a>
+        </div>
+        <!-- #Item 1 -->
+
+	 <!-- Item 1 -->
+        <div class="item">
+           <a href="constes.php"><iframe width="560" height="315" src="https://www.youtube.com/embed/-g7_egpVI7U" frameborder="0" allowfullscreen>alt="banner" class="picz"</iframe></a>
+        </div>
+        <!-- #Item 1 -->
+      </div>
+      <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon-chevron-left"><i class="fa fa-angle-left" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;"></i></span></a>
+      <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon-chevron-right"><i class="fa fa-angle-right" style="background-color:#ff0; padding-left:8px; padding-right:10px; padding-top:5px; padding-bottom:5px;""></i></span></a>
+    </div></center>
+<!-- #Slider Ends -->
+<br><br>
+
+<body background = "header.jpg" bgproperties="fixed">
+
 <div class="container">
 <div class="col-sm-3">
 <?php panel_include("User","work8_user.php"); ?>
 <?php panel_include("Menu","work8_menu.php"); ?>
-</div>
+</div> 
 <div class="col-sm-9">
 <?php panel_include($title,"work8_body.php" ,"primary"); ?>
 </div>
@@ -112,10 +179,10 @@ href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jq
 
 <style>
    .nav-pills li.active a{
-     background:#FFFFCC;
+     background:#FF99CC	;
    }
    .panel{
-   background: #BEBEBE;
+   background: url(hh.jpg);
 box-shadow: 5px 20px 60px #aea;
    }
    .panel-primary .panel-heading{
@@ -126,34 +193,13 @@ box-shadow: 5px 20px 60px #aea;
      background:#87CEFA;
 box-shadow: 5px 20px 60px #aea;
    }
-body{
- background: url(header.jpg)
-}
+
 
 
 </style>
- <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Contact</h2>
-                    <hr class="primary">
-                </div>
-                <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
-                   <h5 style="color:#FF6633"><p>043-632596</p></h5>
-                </div>
-                <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:your-email@your-domain.com">MBPJ_2017@gmail.com</a></p>
-                </div><br><br>
-				<div class="col-lg-8 col-lg-offset-2 text-center">
-				<h5 style="color:#FF6633"><p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</h5>
-				 </div>
-            </div>
-        </div>
-    </section>
-	  <script src="vendor/jquery/jquery.min.js"></script>
+
+	    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
@@ -180,6 +226,27 @@ body{
 			
 			
  </footer>
-</body>
+ </body>
+
 </html>
+
+ <center>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Contact</h2>
+                    <hr class="primary">
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                   <h5 style="color:#FF6633"><p>043-632596</p></h5>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:your-email@your-domain.com">MBPJ_2017@gmail.com</a></p>
+                </div><br><br>
+				<div class="col-lg-8 col-lg-offset-2 text-center">
+				<h5 style="color:#FF6633"><p class="copyright" align=center>&copy; Copyright 2017 MBPJ การ์ตูนออนไลน์ | การ์ตูน  ซับไทย พากย์ไทย Movie ตอนพิเศษ และการ์ตูนที่จบแล้ว</h5>
+				 </div>
+     
+    </center>
 </html>
+
