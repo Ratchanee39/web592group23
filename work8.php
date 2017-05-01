@@ -1,6 +1,7 @@
 <style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/anime/ani-9/ani879.ani), url(http://cur.cursors-4u.net/anime/ani-9/ani879.png), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2009/04/13/super-kawaii-cute-cat-kaoani.html" target="_blank" title="Super Kawaii Cute Cat Kaoani"><img src="http://cur.cursors-4u.net/cursor.png" border="0" alt="Super Kawaii Cute Cat Kaoani" style="position:absolute; top: 0px; right: 0px;" /></a>
 <!doctype html>
 <?php
+date_default_timezone_set("Asia/Bangkok");
 error_reporting(0);
  $appid = "web592group23.appspot.com";
  $page = $_GET['p'];
