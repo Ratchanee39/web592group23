@@ -1,5 +1,5 @@
 <?php
- // สว่ นตัง้คำ่ เรยีกใชง้ำน UserService ของ Google
+ // ส่วนตั้งค่าเรียกใช้งาน UserService ของ Google
  use google\appengine\api\users\User;
  use google\appengine\api\users\UserService;
  global $user,$userdata,$appid;
